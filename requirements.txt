@@ -2,3 +2,4 @@ streamlit_authenticator==0.1.5
 pandas
 st-gsheets-connection
 streamlit_option_menu
+plotly
